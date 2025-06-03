@@ -1,0 +1,32 @@
+h1{
+    color:#2296C7;
+    font: size 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    color:green;
+    font-family : Helvetica,sans-serif;
+    text-align:center;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type:upper-roman;
+}
+
+#menu-bar a{
+    font-family: Helvetica,sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: white;
+}
